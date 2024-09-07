@@ -1,0 +1,2 @@
+>AAK43967.1 putative AP2 domain-containing protein [Arabidopsis thaliana]
+>AED90870.1 DRE-binding protein 2A [Arabidopsis thaliana]

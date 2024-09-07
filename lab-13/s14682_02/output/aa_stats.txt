@@ -1,0 +1,5 @@
+Statistical analysis of the protein sequence ; 
+  The length of the sequence : 34 aa 
+  The molecular weight of the sequence : 3580.95
+  The alanine percentage of the sequence : 0.12%
+  The glycine percentage of the sequence : 0.09%
