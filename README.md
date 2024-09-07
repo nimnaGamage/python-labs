@@ -1,4 +1,4 @@
-# This repository contains a set of Python scripts implemented during the 'BT-3172: Special Topics in Bioinformatics' course
+### This repository contains a set of Python scripts implemented during the 'BT-3172: Special Topics in Bioinformatics' course
 
 Lab 01 :  Introduction to algorithms
 - Calculating the length of a given DNA sequence
