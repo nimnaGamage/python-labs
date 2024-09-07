@@ -1,12 +1,14 @@
+# This repository contains a set of Python scripts implemented during the 'BT-3172: Special Topics in Bioinformatics' course
+
 Lab 01 :  Introduction to algorithms
--Calculating the length of a given DNA sequence
--Calculating the length of a given DNA sequence using len()
--Calculating the nucleotide base counts of a given sequence
+- Calculating the length of a given DNA sequence
+- Calculating the length of a given DNA sequence using len()
+- Calculating the nucleotide base counts of a given sequence
 
 Lab 02 : Python data structures and control structures for bioinformatics
--Using control structures to differentiate between DNA and amino acid sequences
--Translating mRNA sequences using a Python script
--Using the graph data structure in Python to calculate the degree of a given protein
+- Using control structures to differentiate between DNA and amino acid sequences
+- Translating mRNA sequences using a Python script
+- Using the graph data structure in Python to calculate the degree of a given protein
 
 Lab 03 : Python functions and object-oriented programming concepts for bioinformatics
 - Custom methods to check each sequence in the 'OSDREB_sequences.FASTA' file and print the AT content
